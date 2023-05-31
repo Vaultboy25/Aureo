@@ -1,0 +1,173 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+}
+
+.clearfix{
+    clear: both;
+}
+
+#subtxt{
+   ;
+}
+
+header{
+    border-radius: 150px;
+    color:white;
+    background-color:#D0A700;
+    margin-top:40px;
+    margin-right:170px ;
+    margin-bottom:40px ;
+    margin-left:170px ;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 54px;   
+}
+h2{
+    font-size: 55px;
+    font-family: Georgia, serif;
+    margin-bottom:30px ;
+}
+ul{
+    text-align: left;
+}
+ul.b {
+  list-style-type: square;
+}
+ul.a {
+    padding-left:30px ;
+   
+}
+li{
+     padding-top:10px;
+}
+#Proport{
+    margin-left: 100px;
+    float:center;
+    width:480px; 
+    height:300px;
+}   
+#Phi{
+   
+    float:center;
+    width:300px; 
+    height:300px;
+}
+
+body{
+    background-color:#FFF26D;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    
+}
+
+#Pres{
+    float:left;
+    margin-left: 300px
+}
+#Pres2{
+    margin-right: 300px
+}
+#caja1{
+    text-align:center;
+    background-color:#EAE07E;
+    padding-left:100px ;
+    padding-right:100px;
+    margin-top:  20px;
+    padding-bottom: 40px ;
+}
+#caja2{
+    text-align:center;
+    background-color:#DCD165;
+    padding-left:100px ;
+    padding-right:100px;
+    padding-bottom: 40px ;
+}
+#caja3{
+    text-align:center;
+    background-color:#CCB246;
+    padding-left:100px ;
+    padding-right:100px;
+    padding-bottom: 40px ;
+}
+#caja4{
+    text-align:center;
+    background-color:#A8902C;
+    padding-left:100px ;
+    padding-right:100px;
+    padding-bottom: 40px ;
+}
+#caja5{
+    color:#F7E69B;
+    text-align:center;
+    background-color:#A68807;
+    padding-left:100px ;
+    padding-right:100px;
+    padding-bottom: 40px ;
+}
+#caja6{
+    color:#F7E69B;
+    text-align:center;
+    background-color:#856D03;
+    padding-left:100px ;
+    padding-right:100px;
+    padding-bottom: 40px ;
+}
+
+
+#testo{
+   margin-top: 50px;
+}
+
+#Nat{
+    margin-left:50px ;
+    float:right;
+    width:500px; 
+    height:300px;
+}
+#Eukli{
+    margin-right:50px ;
+    float:left;
+    width:400px; 
+    height:580px;
+}
+#Sucesion{
+    margin-top:10px ;
+    margin-right:50px ;
+    float:left;
+    width:200px; 
+    height:300px;
+}
+#mon{
+    margin-top:10px ;
+    float:left;
+    width:200px; 
+    height:300px;
+}
+#Con{
+    margin-top:10px ;
+    margin-right:50px ;
+    text-align: left;
+    width:400px; 
+    height:300px;
+}
+#Cur{
+    margin-top:10px ;
+    margin-right:100px ;
+    margin-left: 70px;
+    float:left;
+    width:400px; 
+    height:300px;
+
+}
+#testo2{
+   margin-top: 100px;
+    padding-bottom:40px ;
+}
+#bottex{
+    margin-left: 4px;
+    font-size: 17px;
+    float:left;
+}
